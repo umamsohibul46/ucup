@@ -1,0 +1,2393 @@
+{
+  "currentUser": {
+    "username": "sohibul",
+    "name": "SOHIBUL UMAM S.Kom",
+    "role": "admin",
+    "isAdmin": true
+  },
+  "teacherCredentials": {
+    "sohibul": "password123"
+  },
+  "exams": [
+    {
+      "id": "EXAM-07",
+      "title": "Ulangan Harian Informatika Kelas 7 - Berpikir Komputasional",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "code": "INF07",
+      "pin": "1234",
+      "durationMinutes": 60,
+      "passingScore": 75,
+      "startTime": "2026-01-01T07:00",
+      "endTime": "2026-12-31T23:59",
+      "maxViolations": 3,
+      "status": "Aktif",
+      "teacherName": "SOHIBUL UMAM S.Kom",
+      "questions": [
+        {
+          "id": "bq-import-1791867949514-1",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "KUMPULAN SOAL PILIHAN GANDA INFORMATIKA\nBerpikir Komputasional, Struktur Data, & Spreadsheet (25 Soal)\nMATERI 1: PILAR COMPUTATIONAL THINKING (CT)\nProses memecahkan masalah besar yang rumit menjadi bagian-bagian kecil yang lebih mudah dikelola dinamakan...",
+          "options": [
+            "Dekomposisi",
+            "Pengenalan Pola",
+            "Abstraksi",
+            "Algoritma"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-2",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Ketika Bestie memperhatikan bahwa ia selalu memakai aksesori warna pink dan emas setiap hangout ke mal, ia sedang menerapkan pilar...",
+          "options": [
+            "Dekomposisi",
+            "Pengenalan Pola",
+            "Abstraksi",
+            "Algoritma"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-3",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Dalam merapikan lembar kerja aksesoris, kita mengabaikan boks kardus yang rusak atau label harga, lalu hanya fokus pada bentuk dan warna aksesoris. Langkah ini merupakan contoh...",
+          "options": [
+            "Dekomposisi",
+            "Algoritma",
+            "Abstraksi",
+            "Pengenalan Pola"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-4",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Urutan langkah-langkah logis dan terstruktur untuk menyelesaikan suatu masalah (seperti aturan mix & match baju) disebut...",
+          "options": [
+            "Algoritma",
+            "Abstraksi",
+            "Dekomposisi",
+            "Pola Data"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-5",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Sebuah solusi CT dikatakan 'Efisien' jika...",
+          "options": [
+            "Menyelesaikan masalah dengan akurasi 100%",
+            "Hemat waktu, memori, serta tidak membuang sumber daya",
+            "Memiliki tampilan yang paling mahal dan rumit",
+            "Hanya menggunakan komputer canggih"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-6",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Kriteria solusi CT yang 'Optimal' berarti solusi tersebut...",
+          "options": [
+            "Membutuhkan waktu paling lama tetapi hasil sangat sempurna",
+            "Menghasilkan keseimbangan terbaik (Best Balance) antara efektivitas dan efisiensi waktu/biaya",
+            "Mengabaikan semua aturan algoritma",
+            "Memiliki tingkat kesalahan hingga 50%"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-7",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 2: STRUKTUR DATA (LINIER & NON-LINIER)\nStruktur data linier yang memberikan kebebasan penuh untuk menambah, menghapus, atau mengubah elemen di posisi mana saja (awal, tengah, akhir) adalah...",
+          "options": [
+            "Queue (Antrian)",
+            "Stack (Tumpukan)",
+            "List (Daftar)",
+            "Tree (Pohon)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-8",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Prinsip FIFO (First-In, First-Out) berlaku pada struktur data...",
+          "options": [
+            "Queue (Antrian)",
+            "Stack (Tumpukan)",
+            "Tree (Pohon)",
+            "Graph (Jejaring)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-9",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fitur Undo (Ctrl+Z) di Microsoft Word dan tombol Back di browser internet menggunakan prinsip LIFO (Last-In, First-Out), yang menerapkan struktur data...",
+          "options": [
+            "List",
+            "Queue",
+            "Stack",
+            "Graph"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-10",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Bagian paling puncak dalam struktur data Pohon (Tree) yang tidak memiliki atasan disebut...",
+          "options": [
+            "Node",
+            "Leaf",
+            "Root (Akar)",
+            "Edge"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-11",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Elemen dalam Pohon (Tree) yang berada di paling bawah dan tidak memiliki anak/bawahan dinamakan...",
+          "options": [
+            "Root",
+            "Leaf (Daun)",
+            "Branch",
+            "Parent"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-12",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Struktur data non-linier yang menggambarkan hubungan bebas dan kompleks antar-objek (seperti rute penerbangan atau peta lokasi Google Maps) adalah...",
+          "options": [
+            "Queue",
+            "Stack",
+            "Tree",
+            "Graph (Jejaring)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-13",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 3: KONSEP DASAR SPREADSHEET & PENGALAMATAN SEL\nLajur vertikal dari atas ke bawah pada lembar kerja yang ditandai dengan huruf (A, B, C, ...) disebut...",
+          "options": [
+            "Baris (Row)",
+            "Kolom (Column)",
+            "Sel (Cell)",
+            "Rentang (Range)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-14",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Perpotongan antara Kolom D dan Baris ke-5 ditulis dengan alamat sel...",
+          "options": [
+            "5D",
+            "D-5",
+            "D5",
+            "$5$D"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-15",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Penulisan sekumpulan sel gabungan mulai dari sel A1 sampai C3 menggunakan simbol...",
+          "options": [
+            "A1-C3",
+            "A1:C3",
+            "A1;C3",
+            "A1_C3"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-16",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Jenis alamat sel yang akan berubah bergeser secara otomatis saat rumus disalin (copy) ke tempat lain adalah...",
+          "options": [
+            "Alamat Absolut",
+            "Alamat Relatif",
+            "Alamat Semi-Absolut",
+            "Alamat Terkunci"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-17",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Tombol pintas (shortcut) pada keyboard yang digunakan untuk mengunci sel menjadi Alamat Absolut ($) secara cepat adalah...",
+          "options": [
+            "F2",
+            "F4",
+            "F8",
+            "F12"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-18",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Pada bentuk penulisan semi-absolut $A1, bagian yang terkunci secara permanen adalah...",
+          "options": [
+            "Baris 1 saja",
+            "Kolom A saja",
+            "Kolom A dan Baris 1",
+            "Tidak ada yang terkunci"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-19",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 4: PENGOLAHAN & ANALISIS DATA TERSTRUKTUR\nMetode pencarian data yang bekerja dengan membuang separuh data berulang kali secara cepat dinamakan...",
+          "options": [
+            "Quick Search",
+            "Binary Search",
+            "Filtering",
+            "Sorting"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-20",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Proses menyusun data teks dari A ke Z atau angka dari terkecil ke terbesar dinamakan...",
+          "options": [
+            "Sort Descending",
+            "Sort Ascending",
+            "Filtering",
+            "Summarizing"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-21",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fitur yang digunakan untuk menampilkan data yang memenuhi syarat tertentu (misal: Kategori 'Alat Tulis') dan menyembunyikan data lainnya adalah...",
+          "options": [
+            "Sorting",
+            "Filtering (Penyaringan)",
+            "Searching",
+            "Grouping"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-22",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fungsi bawaan (built-in formula) spreadsheet yang digunakan untuk menghitung total keseluruhan nilai angka adalah...",
+          "options": [
+            "AVERAGE",
+            "COUNT",
+            "SUM",
+            "MAX"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-23",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Untuk menghitung banyaknya sel yang terisi baik berupa teks maupun angka, kita menggunakan fungsi...",
+          "options": [
+            "COUNT",
+            "COUNTA",
+            "MAX",
+            "MIN"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-24",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fungsi yang digunakan untuk mencari nilai penjualan tertinggi dari suatu rentang data adalah...",
+          "options": [
+            "MAX",
+            "MIN",
+            "AVERAGE",
+            "SUM"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-25",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Perhatikan Tabel Katalog Aksesori berikut untuk menjawab Soal No. 25:\nNama Aksesori\nWarna\nJumlah\nKategori\nHarga\nJepit Pita\nPink\n4\nRambut\nRp 15.000\nKacamata\nHitam\n1\nMata\nRp 30.000\nGelang Manik\nPink\n5\nTangan\nRp 10.000\nCincin Bintang\nPink\n2\nJari\nRp 25.000\nBerdasarkan tabel di atas, jika dilakukan filtering 'Warna = Pink AND Jumlah > 3', kemudian di-sorting berdasarkan harga 'PALING MURAH', maka barang yang menjadi Juara 1 adalah...",
+          "options": [
+            "Jepit Pita (Rp 15.000)",
+            "Gelang Manik (Rp 10.000)",
+            "Cincin Bintang (Rp 25.000)",
+            "Kacamata (Rp 30.000)"
+          ],
+          "answer": "1",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": "EXAM-09",
+      "title": "Ulangan Harian Informatika Kelas 9 - Jaringan Komputer & Internet",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 9",
+      "code": "INF09",
+      "pin": "1234",
+      "durationMinutes": 60,
+      "passingScore": 75,
+      "startTime": "2026-01-01T07:00",
+      "endTime": "2026-12-31T23:59",
+      "maxViolations": 3,
+      "status": "Aktif",
+      "teacherName": "SOHIBUL UMAM S.Kom",
+      "questions": [
+        {
+          "id": "bq-import-1791867949514-1",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "KUMPULAN SOAL PILIHAN GANDA INFORMATIKA\nBerpikir Komputasional, Struktur Data, & Spreadsheet (25 Soal)\nMATERI 1: PILAR COMPUTATIONAL THINKING (CT)\nProses memecahkan masalah besar yang rumit menjadi bagian-bagian kecil yang lebih mudah dikelola dinamakan...",
+          "options": [
+            "Dekomposisi",
+            "Pengenalan Pola",
+            "Abstraksi",
+            "Algoritma"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-2",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Ketika Bestie memperhatikan bahwa ia selalu memakai aksesori warna pink dan emas setiap hangout ke mal, ia sedang menerapkan pilar...",
+          "options": [
+            "Dekomposisi",
+            "Pengenalan Pola",
+            "Abstraksi",
+            "Algoritma"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-3",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Dalam merapikan lembar kerja aksesoris, kita mengabaikan boks kardus yang rusak atau label harga, lalu hanya fokus pada bentuk dan warna aksesoris. Langkah ini merupakan contoh...",
+          "options": [
+            "Dekomposisi",
+            "Algoritma",
+            "Abstraksi",
+            "Pengenalan Pola"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-4",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Urutan langkah-langkah logis dan terstruktur untuk menyelesaikan suatu masalah (seperti aturan mix & match baju) disebut...",
+          "options": [
+            "Algoritma",
+            "Abstraksi",
+            "Dekomposisi",
+            "Pola Data"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-5",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Sebuah solusi CT dikatakan 'Efisien' jika...",
+          "options": [
+            "Menyelesaikan masalah dengan akurasi 100%",
+            "Hemat waktu, memori, serta tidak membuang sumber daya",
+            "Memiliki tampilan yang paling mahal dan rumit",
+            "Hanya menggunakan komputer canggih"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-6",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Kriteria solusi CT yang 'Optimal' berarti solusi tersebut...",
+          "options": [
+            "Membutuhkan waktu paling lama tetapi hasil sangat sempurna",
+            "Menghasilkan keseimbangan terbaik (Best Balance) antara efektivitas dan efisiensi waktu/biaya",
+            "Mengabaikan semua aturan algoritma",
+            "Memiliki tingkat kesalahan hingga 50%"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-7",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 2: STRUKTUR DATA (LINIER & NON-LINIER)\nStruktur data linier yang memberikan kebebasan penuh untuk menambah, menghapus, atau mengubah elemen di posisi mana saja (awal, tengah, akhir) adalah...",
+          "options": [
+            "Queue (Antrian)",
+            "Stack (Tumpukan)",
+            "List (Daftar)",
+            "Tree (Pohon)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-8",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Prinsip FIFO (First-In, First-Out) berlaku pada struktur data...",
+          "options": [
+            "Queue (Antrian)",
+            "Stack (Tumpukan)",
+            "Tree (Pohon)",
+            "Graph (Jejaring)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-9",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fitur Undo (Ctrl+Z) di Microsoft Word dan tombol Back di browser internet menggunakan prinsip LIFO (Last-In, First-Out), yang menerapkan struktur data...",
+          "options": [
+            "List",
+            "Queue",
+            "Stack",
+            "Graph"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-10",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Bagian paling puncak dalam struktur data Pohon (Tree) yang tidak memiliki atasan disebut...",
+          "options": [
+            "Node",
+            "Leaf",
+            "Root (Akar)",
+            "Edge"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-11",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Elemen dalam Pohon (Tree) yang berada di paling bawah dan tidak memiliki anak/bawahan dinamakan...",
+          "options": [
+            "Root",
+            "Leaf (Daun)",
+            "Branch",
+            "Parent"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-12",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Struktur data non-linier yang menggambarkan hubungan bebas dan kompleks antar-objek (seperti rute penerbangan atau peta lokasi Google Maps) adalah...",
+          "options": [
+            "Queue",
+            "Stack",
+            "Tree",
+            "Graph (Jejaring)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-13",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 3: KONSEP DASAR SPREADSHEET & PENGALAMATAN SEL\nLajur vertikal dari atas ke bawah pada lembar kerja yang ditandai dengan huruf (A, B, C, ...) disebut...",
+          "options": [
+            "Baris (Row)",
+            "Kolom (Column)",
+            "Sel (Cell)",
+            "Rentang (Range)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-14",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Perpotongan antara Kolom D dan Baris ke-5 ditulis dengan alamat sel...",
+          "options": [
+            "5D",
+            "D-5",
+            "D5",
+            "$5$D"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-15",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Penulisan sekumpulan sel gabungan mulai dari sel A1 sampai C3 menggunakan simbol...",
+          "options": [
+            "A1-C3",
+            "A1:C3",
+            "A1;C3",
+            "A1_C3"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-16",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Jenis alamat sel yang akan berubah bergeser secara otomatis saat rumus disalin (copy) ke tempat lain adalah...",
+          "options": [
+            "Alamat Absolut",
+            "Alamat Relatif",
+            "Alamat Semi-Absolut",
+            "Alamat Terkunci"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-17",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Tombol pintas (shortcut) pada keyboard yang digunakan untuk mengunci sel menjadi Alamat Absolut ($) secara cepat adalah...",
+          "options": [
+            "F2",
+            "F4",
+            "F8",
+            "F12"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-18",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Pada bentuk penulisan semi-absolut $A1, bagian yang terkunci secara permanen adalah...",
+          "options": [
+            "Baris 1 saja",
+            "Kolom A saja",
+            "Kolom A dan Baris 1",
+            "Tidak ada yang terkunci"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-19",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 4: PENGOLAHAN & ANALISIS DATA TERSTRUKTUR\nMetode pencarian data yang bekerja dengan membuang separuh data berulang kali secara cepat dinamakan...",
+          "options": [
+            "Quick Search",
+            "Binary Search",
+            "Filtering",
+            "Sorting"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-20",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Proses menyusun data teks dari A ke Z atau angka dari terkecil ke terbesar dinamakan...",
+          "options": [
+            "Sort Descending",
+            "Sort Ascending",
+            "Filtering",
+            "Summarizing"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-21",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fitur yang digunakan untuk menampilkan data yang memenuhi syarat tertentu (misal: Kategori 'Alat Tulis') dan menyembunyikan data lainnya adalah...",
+          "options": [
+            "Sorting",
+            "Filtering (Penyaringan)",
+            "Searching",
+            "Grouping"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-22",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fungsi bawaan (built-in formula) spreadsheet yang digunakan untuk menghitung total keseluruhan nilai angka adalah...",
+          "options": [
+            "AVERAGE",
+            "COUNT",
+            "SUM",
+            "MAX"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-23",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Untuk menghitung banyaknya sel yang terisi baik berupa teks maupun angka, kita menggunakan fungsi...",
+          "options": [
+            "COUNT",
+            "COUNTA",
+            "MAX",
+            "MIN"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-24",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fungsi yang digunakan untuk mencari nilai penjualan tertinggi dari suatu rentang data adalah...",
+          "options": [
+            "MAX",
+            "MIN",
+            "AVERAGE",
+            "SUM"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-25",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Perhatikan Tabel Katalog Aksesori berikut untuk menjawab Soal No. 25:\nNama Aksesori\nWarna\nJumlah\nKategori\nHarga\nJepit Pita\nPink\n4\nRambut\nRp 15.000\nKacamata\nHitam\n1\nMata\nRp 30.000\nGelang Manik\nPink\n5\nTangan\nRp 10.000\nCincin Bintang\nPink\n2\nJari\nRp 25.000\nBerdasarkan tabel di atas, jika dilakukan filtering 'Warna = Pink AND Jumlah > 3', kemudian di-sorting berdasarkan harga 'PALING MURAH', maka barang yang menjadi Juara 1 adalah...",
+          "options": [
+            "Jepit Pita (Rp 15.000)",
+            "Gelang Manik (Rp 10.000)",
+            "Cincin Bintang (Rp 25.000)",
+            "Kacamata (Rp 30.000)"
+          ],
+          "answer": "1",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": "EXAM-10",
+      "title": "Ulangan Harian Informatika Kelas 10 - Analisis Data & Perangkat Keras",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 10",
+      "code": "INF10",
+      "pin": "1234",
+      "durationMinutes": 60,
+      "passingScore": 75,
+      "startTime": "2026-01-01T07:00",
+      "endTime": "2026-12-31T23:59",
+      "maxViolations": 3,
+      "status": "Aktif",
+      "teacherName": "SOHIBUL UMAM S.Kom",
+      "questions": [
+        {
+          "id": "bq-import-1791867949514-1",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "KUMPULAN SOAL PILIHAN GANDA INFORMATIKA\nBerpikir Komputasional, Struktur Data, & Spreadsheet (25 Soal)\nMATERI 1: PILAR COMPUTATIONAL THINKING (CT)\nProses memecahkan masalah besar yang rumit menjadi bagian-bagian kecil yang lebih mudah dikelola dinamakan...",
+          "options": [
+            "Dekomposisi",
+            "Pengenalan Pola",
+            "Abstraksi",
+            "Algoritma"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-2",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Ketika Bestie memperhatikan bahwa ia selalu memakai aksesori warna pink dan emas setiap hangout ke mal, ia sedang menerapkan pilar...",
+          "options": [
+            "Dekomposisi",
+            "Pengenalan Pola",
+            "Abstraksi",
+            "Algoritma"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-3",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Dalam merapikan lembar kerja aksesoris, kita mengabaikan boks kardus yang rusak atau label harga, lalu hanya fokus pada bentuk dan warna aksesoris. Langkah ini merupakan contoh...",
+          "options": [
+            "Dekomposisi",
+            "Algoritma",
+            "Abstraksi",
+            "Pengenalan Pola"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-4",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Urutan langkah-langkah logis dan terstruktur untuk menyelesaikan suatu masalah (seperti aturan mix & match baju) disebut...",
+          "options": [
+            "Algoritma",
+            "Abstraksi",
+            "Dekomposisi",
+            "Pola Data"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-5",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Sebuah solusi CT dikatakan 'Efisien' jika...",
+          "options": [
+            "Menyelesaikan masalah dengan akurasi 100%",
+            "Hemat waktu, memori, serta tidak membuang sumber daya",
+            "Memiliki tampilan yang paling mahal dan rumit",
+            "Hanya menggunakan komputer canggih"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-6",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Kriteria solusi CT yang 'Optimal' berarti solusi tersebut...",
+          "options": [
+            "Membutuhkan waktu paling lama tetapi hasil sangat sempurna",
+            "Menghasilkan keseimbangan terbaik (Best Balance) antara efektivitas dan efisiensi waktu/biaya",
+            "Mengabaikan semua aturan algoritma",
+            "Memiliki tingkat kesalahan hingga 50%"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-7",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 2: STRUKTUR DATA (LINIER & NON-LINIER)\nStruktur data linier yang memberikan kebebasan penuh untuk menambah, menghapus, atau mengubah elemen di posisi mana saja (awal, tengah, akhir) adalah...",
+          "options": [
+            "Queue (Antrian)",
+            "Stack (Tumpukan)",
+            "List (Daftar)",
+            "Tree (Pohon)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-8",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Prinsip FIFO (First-In, First-Out) berlaku pada struktur data...",
+          "options": [
+            "Queue (Antrian)",
+            "Stack (Tumpukan)",
+            "Tree (Pohon)",
+            "Graph (Jejaring)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-9",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fitur Undo (Ctrl+Z) di Microsoft Word dan tombol Back di browser internet menggunakan prinsip LIFO (Last-In, First-Out), yang menerapkan struktur data...",
+          "options": [
+            "List",
+            "Queue",
+            "Stack",
+            "Graph"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-10",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Bagian paling puncak dalam struktur data Pohon (Tree) yang tidak memiliki atasan disebut...",
+          "options": [
+            "Node",
+            "Leaf",
+            "Root (Akar)",
+            "Edge"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-11",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Elemen dalam Pohon (Tree) yang berada di paling bawah dan tidak memiliki anak/bawahan dinamakan...",
+          "options": [
+            "Root",
+            "Leaf (Daun)",
+            "Branch",
+            "Parent"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-12",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Struktur data non-linier yang menggambarkan hubungan bebas dan kompleks antar-objek (seperti rute penerbangan atau peta lokasi Google Maps) adalah...",
+          "options": [
+            "Queue",
+            "Stack",
+            "Tree",
+            "Graph (Jejaring)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-13",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 3: KONSEP DASAR SPREADSHEET & PENGALAMATAN SEL\nLajur vertikal dari atas ke bawah pada lembar kerja yang ditandai dengan huruf (A, B, C, ...) disebut...",
+          "options": [
+            "Baris (Row)",
+            "Kolom (Column)",
+            "Sel (Cell)",
+            "Rentang (Range)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-14",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Perpotongan antara Kolom D dan Baris ke-5 ditulis dengan alamat sel...",
+          "options": [
+            "5D",
+            "D-5",
+            "D5",
+            "$5$D"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-15",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Penulisan sekumpulan sel gabungan mulai dari sel A1 sampai C3 menggunakan simbol...",
+          "options": [
+            "A1-C3",
+            "A1:C3",
+            "A1;C3",
+            "A1_C3"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-16",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Jenis alamat sel yang akan berubah bergeser secara otomatis saat rumus disalin (copy) ke tempat lain adalah...",
+          "options": [
+            "Alamat Absolut",
+            "Alamat Relatif",
+            "Alamat Semi-Absolut",
+            "Alamat Terkunci"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-17",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Tombol pintas (shortcut) pada keyboard yang digunakan untuk mengunci sel menjadi Alamat Absolut ($) secara cepat adalah...",
+          "options": [
+            "F2",
+            "F4",
+            "F8",
+            "F12"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-18",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Pada bentuk penulisan semi-absolut $A1, bagian yang terkunci secara permanen adalah...",
+          "options": [
+            "Baris 1 saja",
+            "Kolom A saja",
+            "Kolom A dan Baris 1",
+            "Tidak ada yang terkunci"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-19",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 4: PENGOLAHAN & ANALISIS DATA TERSTRUKTUR\nMetode pencarian data yang bekerja dengan membuang separuh data berulang kali secara cepat dinamakan...",
+          "options": [
+            "Quick Search",
+            "Binary Search",
+            "Filtering",
+            "Sorting"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-20",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Proses menyusun data teks dari A ke Z atau angka dari terkecil ke terbesar dinamakan...",
+          "options": [
+            "Sort Descending",
+            "Sort Ascending",
+            "Filtering",
+            "Summarizing"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-21",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fitur yang digunakan untuk menampilkan data yang memenuhi syarat tertentu (misal: Kategori 'Alat Tulis') dan menyembunyikan data lainnya adalah...",
+          "options": [
+            "Sorting",
+            "Filtering (Penyaringan)",
+            "Searching",
+            "Grouping"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-22",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fungsi bawaan (built-in formula) spreadsheet yang digunakan untuk menghitung total keseluruhan nilai angka adalah...",
+          "options": [
+            "AVERAGE",
+            "COUNT",
+            "SUM",
+            "MAX"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-23",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Untuk menghitung banyaknya sel yang terisi baik berupa teks maupun angka, kita menggunakan fungsi...",
+          "options": [
+            "COUNT",
+            "COUNTA",
+            "MAX",
+            "MIN"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-24",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fungsi yang digunakan untuk mencari nilai penjualan tertinggi dari suatu rentang data adalah...",
+          "options": [
+            "MAX",
+            "MIN",
+            "AVERAGE",
+            "SUM"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-25",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Perhatikan Tabel Katalog Aksesori berikut untuk menjawab Soal No. 25:\nNama Aksesori\nWarna\nJumlah\nKategori\nHarga\nJepit Pita\nPink\n4\nRambut\nRp 15.000\nKacamata\nHitam\n1\nMata\nRp 30.000\nGelang Manik\nPink\n5\nTangan\nRp 10.000\nCincin Bintang\nPink\n2\nJari\nRp 25.000\nBerdasarkan tabel di atas, jika dilakukan filtering 'Warna = Pink AND Jumlah > 3', kemudian di-sorting berdasarkan harga 'PALING MURAH', maka barang yang menjadi Juara 1 adalah...",
+          "options": [
+            "Jepit Pita (Rp 15.000)",
+            "Gelang Manik (Rp 10.000)",
+            "Cincin Bintang (Rp 25.000)",
+            "Kacamata (Rp 30.000)"
+          ],
+          "answer": "1",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": "EXAM-11",
+      "title": "Ulangan Harian Informatika Kelas 11 - Algoritma Lanjutan & Struktur Data",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 11",
+      "code": "INF11",
+      "pin": "1234",
+      "durationMinutes": 60,
+      "passingScore": 75,
+      "startTime": "2026-01-01T07:00",
+      "endTime": "2026-12-31T23:59",
+      "maxViolations": 3,
+      "status": "Aktif",
+      "teacherName": "SOHIBUL UMAM S.Kom",
+      "questions": [
+        {
+          "id": "bq-import-1791867949514-1",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "KUMPULAN SOAL PILIHAN GANDA INFORMATIKA\nBerpikir Komputasional, Struktur Data, & Spreadsheet (25 Soal)\nMATERI 1: PILAR COMPUTATIONAL THINKING (CT)\nProses memecahkan masalah besar yang rumit menjadi bagian-bagian kecil yang lebih mudah dikelola dinamakan...",
+          "options": [
+            "Dekomposisi",
+            "Pengenalan Pola",
+            "Abstraksi",
+            "Algoritma"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-2",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Ketika Bestie memperhatikan bahwa ia selalu memakai aksesori warna pink dan emas setiap hangout ke mal, ia sedang menerapkan pilar...",
+          "options": [
+            "Dekomposisi",
+            "Pengenalan Pola",
+            "Abstraksi",
+            "Algoritma"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-3",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Dalam merapikan lembar kerja aksesoris, kita mengabaikan boks kardus yang rusak atau label harga, lalu hanya fokus pada bentuk dan warna aksesoris. Langkah ini merupakan contoh...",
+          "options": [
+            "Dekomposisi",
+            "Algoritma",
+            "Abstraksi",
+            "Pengenalan Pola"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-4",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Urutan langkah-langkah logis dan terstruktur untuk menyelesaikan suatu masalah (seperti aturan mix & match baju) disebut...",
+          "options": [
+            "Algoritma",
+            "Abstraksi",
+            "Dekomposisi",
+            "Pola Data"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-5",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Sebuah solusi CT dikatakan 'Efisien' jika...",
+          "options": [
+            "Menyelesaikan masalah dengan akurasi 100%",
+            "Hemat waktu, memori, serta tidak membuang sumber daya",
+            "Memiliki tampilan yang paling mahal dan rumit",
+            "Hanya menggunakan komputer canggih"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-6",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Kriteria solusi CT yang 'Optimal' berarti solusi tersebut...",
+          "options": [
+            "Membutuhkan waktu paling lama tetapi hasil sangat sempurna",
+            "Menghasilkan keseimbangan terbaik (Best Balance) antara efektivitas dan efisiensi waktu/biaya",
+            "Mengabaikan semua aturan algoritma",
+            "Memiliki tingkat kesalahan hingga 50%"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-7",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 2: STRUKTUR DATA (LINIER & NON-LINIER)\nStruktur data linier yang memberikan kebebasan penuh untuk menambah, menghapus, atau mengubah elemen di posisi mana saja (awal, tengah, akhir) adalah...",
+          "options": [
+            "Queue (Antrian)",
+            "Stack (Tumpukan)",
+            "List (Daftar)",
+            "Tree (Pohon)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-8",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Prinsip FIFO (First-In, First-Out) berlaku pada struktur data...",
+          "options": [
+            "Queue (Antrian)",
+            "Stack (Tumpukan)",
+            "Tree (Pohon)",
+            "Graph (Jejaring)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-9",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fitur Undo (Ctrl+Z) di Microsoft Word dan tombol Back di browser internet menggunakan prinsip LIFO (Last-In, First-Out), yang menerapkan struktur data...",
+          "options": [
+            "List",
+            "Queue",
+            "Stack",
+            "Graph"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-10",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Bagian paling puncak dalam struktur data Pohon (Tree) yang tidak memiliki atasan disebut...",
+          "options": [
+            "Node",
+            "Leaf",
+            "Root (Akar)",
+            "Edge"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-11",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Elemen dalam Pohon (Tree) yang berada di paling bawah dan tidak memiliki anak/bawahan dinamakan...",
+          "options": [
+            "Root",
+            "Leaf (Daun)",
+            "Branch",
+            "Parent"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-12",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Struktur data non-linier yang menggambarkan hubungan bebas dan kompleks antar-objek (seperti rute penerbangan atau peta lokasi Google Maps) adalah...",
+          "options": [
+            "Queue",
+            "Stack",
+            "Tree",
+            "Graph (Jejaring)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-13",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 3: KONSEP DASAR SPREADSHEET & PENGALAMATAN SEL\nLajur vertikal dari atas ke bawah pada lembar kerja yang ditandai dengan huruf (A, B, C, ...) disebut...",
+          "options": [
+            "Baris (Row)",
+            "Kolom (Column)",
+            "Sel (Cell)",
+            "Rentang (Range)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-14",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Perpotongan antara Kolom D dan Baris ke-5 ditulis dengan alamat sel...",
+          "options": [
+            "5D",
+            "D-5",
+            "D5",
+            "$5$D"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-15",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Penulisan sekumpulan sel gabungan mulai dari sel A1 sampai C3 menggunakan simbol...",
+          "options": [
+            "A1-C3",
+            "A1:C3",
+            "A1;C3",
+            "A1_C3"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-16",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Jenis alamat sel yang akan berubah bergeser secara otomatis saat rumus disalin (copy) ke tempat lain adalah...",
+          "options": [
+            "Alamat Absolut",
+            "Alamat Relatif",
+            "Alamat Semi-Absolut",
+            "Alamat Terkunci"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-17",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Tombol pintas (shortcut) pada keyboard yang digunakan untuk mengunci sel menjadi Alamat Absolut ($) secara cepat adalah...",
+          "options": [
+            "F2",
+            "F4",
+            "F8",
+            "F12"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-18",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Pada bentuk penulisan semi-absolut $A1, bagian yang terkunci secara permanen adalah...",
+          "options": [
+            "Baris 1 saja",
+            "Kolom A saja",
+            "Kolom A dan Baris 1",
+            "Tidak ada yang terkunci"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-19",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 4: PENGOLAHAN & ANALISIS DATA TERSTRUKTUR\nMetode pencarian data yang bekerja dengan membuang separuh data berulang kali secara cepat dinamakan...",
+          "options": [
+            "Quick Search",
+            "Binary Search",
+            "Filtering",
+            "Sorting"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-20",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Proses menyusun data teks dari A ke Z atau angka dari terkecil ke terbesar dinamakan...",
+          "options": [
+            "Sort Descending",
+            "Sort Ascending",
+            "Filtering",
+            "Summarizing"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-21",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fitur yang digunakan untuk menampilkan data yang memenuhi syarat tertentu (misal: Kategori 'Alat Tulis') dan menyembunyikan data lainnya adalah...",
+          "options": [
+            "Sorting",
+            "Filtering (Penyaringan)",
+            "Searching",
+            "Grouping"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-22",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fungsi bawaan (built-in formula) spreadsheet yang digunakan untuk menghitung total keseluruhan nilai angka adalah...",
+          "options": [
+            "AVERAGE",
+            "COUNT",
+            "SUM",
+            "MAX"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-23",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Untuk menghitung banyaknya sel yang terisi baik berupa teks maupun angka, kita menggunakan fungsi...",
+          "options": [
+            "COUNT",
+            "COUNTA",
+            "MAX",
+            "MIN"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-24",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fungsi yang digunakan untuk mencari nilai penjualan tertinggi dari suatu rentang data adalah...",
+          "options": [
+            "MAX",
+            "MIN",
+            "AVERAGE",
+            "SUM"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-25",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Perhatikan Tabel Katalog Aksesori berikut untuk menjawab Soal No. 25:\nNama Aksesori\nWarna\nJumlah\nKategori\nHarga\nJepit Pita\nPink\n4\nRambut\nRp 15.000\nKacamata\nHitam\n1\nMata\nRp 30.000\nGelang Manik\nPink\n5\nTangan\nRp 10.000\nCincin Bintang\nPink\n2\nJari\nRp 25.000\nBerdasarkan tabel di atas, jika dilakukan filtering 'Warna = Pink AND Jumlah > 3', kemudian di-sorting berdasarkan harga 'PALING MURAH', maka barang yang menjadi Juara 1 adalah...",
+          "options": [
+            "Jepit Pita (Rp 15.000)",
+            "Gelang Manik (Rp 10.000)",
+            "Cincin Bintang (Rp 25.000)",
+            "Kacamata (Rp 30.000)"
+          ],
+          "answer": "1",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "id": "EXAM-08",
+      "title": "Ulangan Harian Informatika Kelas 8 - Algoritma & Pemrograman Dasar",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 8",
+      "code": "INF08",
+      "pin": "1234",
+      "durationMinutes": 45,
+      "passingScore": 75,
+      "startTime": "2026-01-01T07:00",
+      "endTime": "2026-12-31T23:59",
+      "maxViolations": 3,
+      "status": "Aktif",
+      "teacherName": "SOHIBUL UMAM S.Kom",
+      "questions": [
+        {
+          "id": "bq-import-1791867949514-1",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "KUMPULAN SOAL PILIHAN GANDA INFORMATIKA\nBerpikir Komputasional, Struktur Data, & Spreadsheet (25 Soal)\nMATERI 1: PILAR COMPUTATIONAL THINKING (CT)\nProses memecahkan masalah besar yang rumit menjadi bagian-bagian kecil yang lebih mudah dikelola dinamakan...",
+          "options": [
+            "Dekomposisi",
+            "Pengenalan Pola",
+            "Abstraksi",
+            "Algoritma"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-2",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Ketika Bestie memperhatikan bahwa ia selalu memakai aksesori warna pink dan emas setiap hangout ke mal, ia sedang menerapkan pilar...",
+          "options": [
+            "Dekomposisi",
+            "Pengenalan Pola",
+            "Abstraksi",
+            "Algoritma"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-3",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Dalam merapikan lembar kerja aksesoris, kita mengabaikan boks kardus yang rusak atau label harga, lalu hanya fokus pada bentuk dan warna aksesoris. Langkah ini merupakan contoh...",
+          "options": [
+            "Dekomposisi",
+            "Algoritma",
+            "Abstraksi",
+            "Pengenalan Pola"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-4",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Urutan langkah-langkah logis dan terstruktur untuk menyelesaikan suatu masalah (seperti aturan mix & match baju) disebut...",
+          "options": [
+            "Algoritma",
+            "Abstraksi",
+            "Dekomposisi",
+            "Pola Data"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-5",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Sebuah solusi CT dikatakan 'Efisien' jika...",
+          "options": [
+            "Menyelesaikan masalah dengan akurasi 100%",
+            "Hemat waktu, memori, serta tidak membuang sumber daya",
+            "Memiliki tampilan yang paling mahal dan rumit",
+            "Hanya menggunakan komputer canggih"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-6",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Kriteria solusi CT yang 'Optimal' berarti solusi tersebut...",
+          "options": [
+            "Membutuhkan waktu paling lama tetapi hasil sangat sempurna",
+            "Menghasilkan keseimbangan terbaik (Best Balance) antara efektivitas dan efisiensi waktu/biaya",
+            "Mengabaikan semua aturan algoritma",
+            "Memiliki tingkat kesalahan hingga 50%"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-7",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 2: STRUKTUR DATA (LINIER & NON-LINIER)\nStruktur data linier yang memberikan kebebasan penuh untuk menambah, menghapus, atau mengubah elemen di posisi mana saja (awal, tengah, akhir) adalah...",
+          "options": [
+            "Queue (Antrian)",
+            "Stack (Tumpukan)",
+            "List (Daftar)",
+            "Tree (Pohon)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-8",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Prinsip FIFO (First-In, First-Out) berlaku pada struktur data...",
+          "options": [
+            "Queue (Antrian)",
+            "Stack (Tumpukan)",
+            "Tree (Pohon)",
+            "Graph (Jejaring)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-9",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fitur Undo (Ctrl+Z) di Microsoft Word dan tombol Back di browser internet menggunakan prinsip LIFO (Last-In, First-Out), yang menerapkan struktur data...",
+          "options": [
+            "List",
+            "Queue",
+            "Stack",
+            "Graph"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-10",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Bagian paling puncak dalam struktur data Pohon (Tree) yang tidak memiliki atasan disebut...",
+          "options": [
+            "Node",
+            "Leaf",
+            "Root (Akar)",
+            "Edge"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-11",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Elemen dalam Pohon (Tree) yang berada di paling bawah dan tidak memiliki anak/bawahan dinamakan...",
+          "options": [
+            "Root",
+            "Leaf (Daun)",
+            "Branch",
+            "Parent"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-12",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Struktur data non-linier yang menggambarkan hubungan bebas dan kompleks antar-objek (seperti rute penerbangan atau peta lokasi Google Maps) adalah...",
+          "options": [
+            "Queue",
+            "Stack",
+            "Tree",
+            "Graph (Jejaring)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-13",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 3: KONSEP DASAR SPREADSHEET & PENGALAMATAN SEL\nLajur vertikal dari atas ke bawah pada lembar kerja yang ditandai dengan huruf (A, B, C, ...) disebut...",
+          "options": [
+            "Baris (Row)",
+            "Kolom (Column)",
+            "Sel (Cell)",
+            "Rentang (Range)"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-14",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Perpotongan antara Kolom D dan Baris ke-5 ditulis dengan alamat sel...",
+          "options": [
+            "5D",
+            "D-5",
+            "D5",
+            "$5$D"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-15",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Penulisan sekumpulan sel gabungan mulai dari sel A1 sampai C3 menggunakan simbol...",
+          "options": [
+            "A1-C3",
+            "A1:C3",
+            "A1;C3",
+            "A1_C3"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-16",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Jenis alamat sel yang akan berubah bergeser secara otomatis saat rumus disalin (copy) ke tempat lain adalah...",
+          "options": [
+            "Alamat Absolut",
+            "Alamat Relatif",
+            "Alamat Semi-Absolut",
+            "Alamat Terkunci"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-17",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Tombol pintas (shortcut) pada keyboard yang digunakan untuk mengunci sel menjadi Alamat Absolut ($) secara cepat adalah...",
+          "options": [
+            "F2",
+            "F4",
+            "F8",
+            "F12"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-18",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Pada bentuk penulisan semi-absolut $A1, bagian yang terkunci secara permanen adalah...",
+          "options": [
+            "Baris 1 saja",
+            "Kolom A saja",
+            "Kolom A dan Baris 1",
+            "Tidak ada yang terkunci"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-19",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "MATERI 4: PENGOLAHAN & ANALISIS DATA TERSTRUKTUR\nMetode pencarian data yang bekerja dengan membuang separuh data berulang kali secara cepat dinamakan...",
+          "options": [
+            "Quick Search",
+            "Binary Search",
+            "Filtering",
+            "Sorting"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-20",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Proses menyusun data teks dari A ke Z atau angka dari terkecil ke terbesar dinamakan...",
+          "options": [
+            "Sort Descending",
+            "Sort Ascending",
+            "Filtering",
+            "Summarizing"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-21",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fitur yang digunakan untuk menampilkan data yang memenuhi syarat tertentu (misal: Kategori 'Alat Tulis') dan menyembunyikan data lainnya adalah...",
+          "options": [
+            "Sorting",
+            "Filtering (Penyaringan)",
+            "Searching",
+            "Grouping"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-22",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fungsi bawaan (built-in formula) spreadsheet yang digunakan untuk menghitung total keseluruhan nilai angka adalah...",
+          "options": [
+            "AVERAGE",
+            "COUNT",
+            "SUM",
+            "MAX"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-23",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Untuk menghitung banyaknya sel yang terisi baik berupa teks maupun angka, kita menggunakan fungsi...",
+          "options": [
+            "COUNT",
+            "COUNTA",
+            "MAX",
+            "MIN"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-24",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Fungsi yang digunakan untuk mencari nilai penjualan tertinggi dari suatu rentang data adalah...",
+          "options": [
+            "MAX",
+            "MIN",
+            "AVERAGE",
+            "SUM"
+          ],
+          "answer": "0",
+          "score": 4
+        },
+        {
+          "id": "bq-import-1791867949514-25",
+          "subject": "INFORMATIKA",
+          "classLevel": "Kelas 7",
+          "type": "pg",
+          "question": "Perhatikan Tabel Katalog Aksesori berikut untuk menjawab Soal No. 25:\nNama Aksesori\nWarna\nJumlah\nKategori\nHarga\nJepit Pita\nPink\n4\nRambut\nRp 15.000\nKacamata\nHitam\n1\nMata\nRp 30.000\nGelang Manik\nPink\n5\nTangan\nRp 10.000\nCincin Bintang\nPink\n2\nJari\nRp 25.000\nBerdasarkan tabel di atas, jika dilakukan filtering 'Warna = Pink AND Jumlah > 3', kemudian di-sorting berdasarkan harga 'PALING MURAH', maka barang yang menjadi Juara 1 adalah...",
+          "options": [
+            "Jepit Pita (Rp 15.000)",
+            "Gelang Manik (Rp 10.000)",
+            "Cincin Bintang (Rp 25.000)",
+            "Kacamata (Rp 30.000)"
+          ],
+          "answer": "1",
+          "score": 4
+        }
+      ]
+    }
+  ],
+  "bankQuestions": [
+    {
+      "id": "bq-import-1791867949514-1",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "KUMPULAN SOAL PILIHAN GANDA INFORMATIKA\nBerpikir Komputasional, Struktur Data, & Spreadsheet (25 Soal)\nMATERI 1: PILAR COMPUTATIONAL THINKING (CT)\nProses memecahkan masalah besar yang rumit menjadi bagian-bagian kecil yang lebih mudah dikelola dinamakan...",
+      "options": [
+        "Dekomposisi",
+        "Pengenalan Pola",
+        "Abstraksi",
+        "Algoritma"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-2",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Ketika Bestie memperhatikan bahwa ia selalu memakai aksesori warna pink dan emas setiap hangout ke mal, ia sedang menerapkan pilar...",
+      "options": [
+        "Dekomposisi",
+        "Pengenalan Pola",
+        "Abstraksi",
+        "Algoritma"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-3",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Dalam merapikan lembar kerja aksesoris, kita mengabaikan boks kardus yang rusak atau label harga, lalu hanya fokus pada bentuk dan warna aksesoris. Langkah ini merupakan contoh...",
+      "options": [
+        "Dekomposisi",
+        "Algoritma",
+        "Abstraksi",
+        "Pengenalan Pola"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-4",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Urutan langkah-langkah logis dan terstruktur untuk menyelesaikan suatu masalah (seperti aturan mix & match baju) disebut...",
+      "options": [
+        "Algoritma",
+        "Abstraksi",
+        "Dekomposisi",
+        "Pola Data"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-5",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Sebuah solusi CT dikatakan 'Efisien' jika...",
+      "options": [
+        "Menyelesaikan masalah dengan akurasi 100%",
+        "Hemat waktu, memori, serta tidak membuang sumber daya",
+        "Memiliki tampilan yang paling mahal dan rumit",
+        "Hanya menggunakan komputer canggih"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-6",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Kriteria solusi CT yang 'Optimal' berarti solusi tersebut...",
+      "options": [
+        "Membutuhkan waktu paling lama tetapi hasil sangat sempurna",
+        "Menghasilkan keseimbangan terbaik (Best Balance) antara efektivitas dan efisiensi waktu/biaya",
+        "Mengabaikan semua aturan algoritma",
+        "Memiliki tingkat kesalahan hingga 50%"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-7",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "MATERI 2: STRUKTUR DATA (LINIER & NON-LINIER)\nStruktur data linier yang memberikan kebebasan penuh untuk menambah, menghapus, atau mengubah elemen di posisi mana saja (awal, tengah, akhir) adalah...",
+      "options": [
+        "Queue (Antrian)",
+        "Stack (Tumpukan)",
+        "List (Daftar)",
+        "Tree (Pohon)"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-8",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Prinsip FIFO (First-In, First-Out) berlaku pada struktur data...",
+      "options": [
+        "Queue (Antrian)",
+        "Stack (Tumpukan)",
+        "Tree (Pohon)",
+        "Graph (Jejaring)"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-9",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Fitur Undo (Ctrl+Z) di Microsoft Word dan tombol Back di browser internet menggunakan prinsip LIFO (Last-In, First-Out), yang menerapkan struktur data...",
+      "options": [
+        "List",
+        "Queue",
+        "Stack",
+        "Graph"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-10",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Bagian paling puncak dalam struktur data Pohon (Tree) yang tidak memiliki atasan disebut...",
+      "options": [
+        "Node",
+        "Leaf",
+        "Root (Akar)",
+        "Edge"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-11",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Elemen dalam Pohon (Tree) yang berada di paling bawah dan tidak memiliki anak/bawahan dinamakan...",
+      "options": [
+        "Root",
+        "Leaf (Daun)",
+        "Branch",
+        "Parent"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-12",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Struktur data non-linier yang menggambarkan hubungan bebas dan kompleks antar-objek (seperti rute penerbangan atau peta lokasi Google Maps) adalah...",
+      "options": [
+        "Queue",
+        "Stack",
+        "Tree",
+        "Graph (Jejaring)"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-13",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "MATERI 3: KONSEP DASAR SPREADSHEET & PENGALAMATAN SEL\nLajur vertikal dari atas ke bawah pada lembar kerja yang ditandai dengan huruf (A, B, C, ...) disebut...",
+      "options": [
+        "Baris (Row)",
+        "Kolom (Column)",
+        "Sel (Cell)",
+        "Rentang (Range)"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-14",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Perpotongan antara Kolom D dan Baris ke-5 ditulis dengan alamat sel...",
+      "options": [
+        "5D",
+        "D-5",
+        "D5",
+        "$5$D"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-15",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Penulisan sekumpulan sel gabungan mulai dari sel A1 sampai C3 menggunakan simbol...",
+      "options": [
+        "A1-C3",
+        "A1:C3",
+        "A1;C3",
+        "A1_C3"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-16",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Jenis alamat sel yang akan berubah bergeser secara otomatis saat rumus disalin (copy) ke tempat lain adalah...",
+      "options": [
+        "Alamat Absolut",
+        "Alamat Relatif",
+        "Alamat Semi-Absolut",
+        "Alamat Terkunci"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-17",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Tombol pintas (shortcut) pada keyboard yang digunakan untuk mengunci sel menjadi Alamat Absolut ($) secara cepat adalah...",
+      "options": [
+        "F2",
+        "F4",
+        "F8",
+        "F12"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-18",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Pada bentuk penulisan semi-absolut $A1, bagian yang terkunci secara permanen adalah...",
+      "options": [
+        "Baris 1 saja",
+        "Kolom A saja",
+        "Kolom A dan Baris 1",
+        "Tidak ada yang terkunci"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-19",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "MATERI 4: PENGOLAHAN & ANALISIS DATA TERSTRUKTUR\nMetode pencarian data yang bekerja dengan membuang separuh data berulang kali secara cepat dinamakan...",
+      "options": [
+        "Quick Search",
+        "Binary Search",
+        "Filtering",
+        "Sorting"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-20",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Proses menyusun data teks dari A ke Z atau angka dari terkecil ke terbesar dinamakan...",
+      "options": [
+        "Sort Descending",
+        "Sort Ascending",
+        "Filtering",
+        "Summarizing"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-21",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Fitur yang digunakan untuk menampilkan data yang memenuhi syarat tertentu (misal: Kategori 'Alat Tulis') dan menyembunyikan data lainnya adalah...",
+      "options": [
+        "Sorting",
+        "Filtering (Penyaringan)",
+        "Searching",
+        "Grouping"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-22",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Fungsi bawaan (built-in formula) spreadsheet yang digunakan untuk menghitung total keseluruhan nilai angka adalah...",
+      "options": [
+        "AVERAGE",
+        "COUNT",
+        "SUM",
+        "MAX"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-23",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Untuk menghitung banyaknya sel yang terisi baik berupa teks maupun angka, kita menggunakan fungsi...",
+      "options": [
+        "COUNT",
+        "COUNTA",
+        "MAX",
+        "MIN"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-24",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Fungsi yang digunakan untuk mencari nilai penjualan tertinggi dari suatu rentang data adalah...",
+      "options": [
+        "MAX",
+        "MIN",
+        "AVERAGE",
+        "SUM"
+      ],
+      "answer": "0",
+      "score": 4
+    },
+    {
+      "id": "bq-import-1791867949514-25",
+      "subject": "INFORMATIKA",
+      "classLevel": "Kelas 7",
+      "type": "pg",
+      "question": "Perhatikan Tabel Katalog Aksesori berikut untuk menjawab Soal No. 25:\nNama Aksesori\nWarna\nJumlah\nKategori\nHarga\nJepit Pita\nPink\n4\nRambut\nRp 15.000\nKacamata\nHitam\n1\nMata\nRp 30.000\nGelang Manik\nPink\n5\nTangan\nRp 10.000\nCincin Bintang\nPink\n2\nJari\nRp 25.000\nBerdasarkan tabel di atas, jika dilakukan filtering 'Warna = Pink AND Jumlah > 3', kemudian di-sorting berdasarkan harga 'PALING MURAH', maka barang yang menjadi Juara 1 adalah...",
+      "options": [
+        "Jepit Pita (Rp 15.000)",
+        "Gelang Manik (Rp 10.000)",
+        "Cincin Bintang (Rp 25.000)",
+        "Kacamata (Rp 30.000)"
+      ],
+      "answer": "1",
+      "score": 4
+    }
+  ],
+  "submissions": [
+    {
+      "id": "sub-1791875210897",
+      "examId": "EXAM-07",
+      "examTitle": "Ulangan Harian Informatika Kelas 7 - Berpikir Komputasional",
+      "studentUsername": "10293847",
+      "studentName": "Ahmad Faiz",
+      "studentClass": "Kelas 8",
+      "score": 0,
+      "status": "Selesai",
+      "violations": 0,
+      "violationLogs": [],
+      "answers": {
+        "bq-import-1791867949514-23": "1"
+      },
+      "submittedAt": "13/10/2026, 15.06.50",
+      "durationSpentSeconds": 24
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "aud-1791866162191",
+      "time": "13/10/2026 12.36.02",
+      "user": "Ahmad Faiz (Kelas 8)",
+      "action": "Pelanggaran Kiosk Mode",
+      "detail": "Jendela browser kehilangan fokus (Window Blur / Alt-Tab) pada ujian Ulangan Harian Informatika Kelas 7 - Berpikir Komputasional",
+      "severity": "warning"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "tch-sohibul",
+      "username": "sohibul",
+      "name": "SOHIBUL UMAM S.Kom",
+      "password": "password123",
+      "subject": "Informatika",
+      "major": "Umum / Semua Jurusan",
+      "nip": "198804152015031002",
+      "role": "admin",
+      "createdAt": "2026-01-01"
+    }
+  ],
+  "ongoingSessions": {}
+}

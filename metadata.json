@@ -1,0 +1,8 @@
+{
+  "name": "CBT Informatika - SOHIBUL UMAM S.Kom",
+  "description": "Sistem Ujian Berbasis Komputer (CBT) responsif dan interaktif untuk Kelas 7-12 dengan Kiosk Mode Anti-Cheat, Bank Soal, Manajemen Ujian, dan Rekapitulasi Nilai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
